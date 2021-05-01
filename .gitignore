@@ -2,7 +2,8 @@
 /dist  
 /tmp  
 /out-tsc  
-  
+/e2e
+
 # dependencies  
 /node_modules  
   
@@ -30,7 +31,16 @@
 npm-debug.log  
 yarn-error.log  
 testem.log  
-/typings  
+/typings
+.Angular.iml
+.angular.json
+.browserslist
+.karma.conf.js
+.package-lock.json
+.package.json
+.sortable-theme.dark.css
+.sortable.min.js
+.tslint.json
   
 # System Files  
 .DS_Store  
