@@ -1,0 +1,28 @@
+@font-face{
+  font-family: 'Joystix';
+  src: url('../src/assets/font/joystix-webfont.woff') format('woff')
+}
+
+body{
+  background: url("assets/imgs/background-mario") no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+*{
+  scroll-behavior: smooth;
+  font-family: Joystix, sans-serif, serif;
+}
+p, h1, h2, h3, h4, h5, a, span, strong{
+  font-size: .9rem;
+  color: #ffffff;
+}
+p{
+  line-height: 1.5rem;
+}
+input[placeholder], textarea[placeholder]{
+  font-size: .7rem;
+}
+
+button{
+  font-size: .7rem !important;
+}

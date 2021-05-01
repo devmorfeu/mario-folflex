@@ -1,0 +1,8 @@
+.row-sobrenos{
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  margin-top: 15vh;
+  background-color:rgba(0, 0, 0, 0.5);
+}
+p, h3, h2, strong, h1{
+  color: #ffffff;
+}

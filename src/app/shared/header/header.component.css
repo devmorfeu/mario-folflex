@@ -1,0 +1,12 @@
+nav {
+  background: rgba(0, 33, 10, .7);;
+}
+.nav-link:hover {
+  color: #ffffff;
+  border-bottom: 1px solid #fff ;
+  padding-bottom: 1px;
+}
+*{
+  color: #ffffff;
+  text-decoration: none;
+}
